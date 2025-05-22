@@ -7,7 +7,11 @@
 
 ## Project Overview
 
-This project analyzes the Chinook Music Sales Database using SQL. It was created as my first portfolio project to demonstrate fundamental SQL skills by answering real-world business questions.
+This is my first SQL portfolio project, built using the publicly available Chinook Database.  
+The goal was to take a structured dataset and apply real-world SQL querying skills to answer business questions, analyze trends, and draw meaningful insights.
+
+While the Chinook DB is a common starter dataset, all questions, queries, and analysis in this project are my own.  
+This project serves as a foundation to grow from and show my ability to explore data and communicate findings clearly.
 
 The analysis uses standard SQL concepts such as:
 - SELECT statements and filtering
