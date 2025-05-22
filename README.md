@@ -652,7 +652,7 @@ The data shows the total sales each sales employee had for 2024.  The results in
 
 ## Contact
 
-*Created by WDare*  
+*Created by William Dare*  
 [LinkedIn](https://www.linkedin.com/in/williamdare33) | [GitHub](https://github.com/thebill33)
 
 ---
