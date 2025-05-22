@@ -654,9 +654,12 @@ The data shows the total sales each sales employee had for 2024.  The results in
 
 ---
 
-## Credits
+## License
 
-- [Chinook Database](https://github.com/lerocha/chinook-database) by Lauro de Souza Ferreira Filho
+This project builds on materials from the Chinook Database, originally licensed under the MIT License by Luis Rocha.  
+You can find the full license text in the [LICENSE](./LICENSE) file.
+
+Additional SQL queries and analysis in this notebook are my own work and shared under the same license.
 
 ---
 
