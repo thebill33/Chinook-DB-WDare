@@ -1,7 +1,7 @@
 # Chinook Music Sales - SQL Portfolio Analysis
 
 **Author:** William Dare<br>
-**Tools Used:** SQL, Google Colab, PostgreSQL
+**Tools Used:** SQL, Google Colab, PostgreSQL, Supabase
 
 ---
 
@@ -42,6 +42,14 @@ This project uses the **PostgreSQL** version of Chinook and was run in **Supabas
 
 ---
 
+## How to Reproduce
+
+1. Load the PostgreSQL version of the Chinook database into your environment.
+2. Run the SQL queries in a tool of your choice (e.g., pgAdmin, DBeaver, or Colab with `psycopg2`).
+3. Modify queries as needed to explore additional patterns or trends.
+
+---
+
 ## Questions Answered
 
 - What are the top 5 music genres by total sales in the USA?
@@ -59,8 +67,6 @@ This project uses the **PostgreSQL** version of Chinook and was run in **Supabas
 ## Results and Takeaways
 
 ### 1. What are the top 5 music genres in total sales in the USA?
-
-
 
 ```
 SELECT g.name, SUM(i.total) AS total_sales
