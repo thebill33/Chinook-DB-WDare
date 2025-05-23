@@ -67,7 +67,7 @@ This project uses the **PostgreSQL** version of Chinook and was run in **Supabas
 ## Results and Takeaways
 
 - Majority of customers come from the USA and Canada, with a higher average of sales happening in the USA
-- The main genre customers like to listen to is Rock, as well as subgenres of Rock like Metal and Alternative & Punk, this suggest that marketing to those genres could yield higher revenue
+- The main genre customers like to listen to in the USA is Rock, as well as subgenres of Rock like Metal and Alternative & Punk, this suggest that marketing to those genres could yield higher revenue in our largest market
 - Revenue will usually not change on a month over month basis, but will have large swings in any given month, meaning a year over year analysis would be more beneficial
 - The top 10% of customers account for 10.10% of total sales, suggesting that customers in high through low tiers of sales are closer aligned than not, and that sales is more evenly distributed
 
